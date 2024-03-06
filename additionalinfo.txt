@@ -1,0 +1,1 @@
+components and elements = https://reactnativeelements.com/docs/components/icon
